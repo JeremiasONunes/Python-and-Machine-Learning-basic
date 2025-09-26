@@ -1,0 +1,16 @@
+id,nome,idade,sexo,cidade,especialidade,pressao_sistolica,pressao_diastolica,glicose,imc,data_consulta
+1,Ana Silva,25,F,São Paulo,Psicologia,120,80,95,22.5,2024-01-15
+2,João Santos,34,M,Rio de Janeiro,Psiquiatria,140,90,130,28.2,2024-01-16
+3,Maria Costa,28,F,São Paulo,Terapia,110,75,88,24.1,2024-01-17
+4,Pedro Lima,45,M,Belo Horizonte,Psicologia,135,85,145,29.8,2024-01-18
+5,Carlos Souza,67,M,São Paulo,Psiquiatria,160,95,180,31.5,2024-01-19
+6,Rosa Santos,78,F,Salvador,Neurologia,150,88,200,26.7,2024-01-20
+7,Lucas Oliveira,29,M,Brasília,Psicologia,125,82,102,25.3,2024-01-21
+8,Fernanda Costa,52,F,Recife,Terapia,145,92,165,32.1,2024-01-22
+9,Roberto Silva,41,M,Porto Alegre,Psiquiatria,130,80,120,27.4,2024-01-23
+10,Juliana Pereira,36,F,Fortaleza,Psicologia,115,75,98,23.8,2024-01-24
+11,Marcos Alves,58,M,Curitiba,Neurologia,155,90,175,30.2,2024-01-25
+12,Patricia Rocha,33,F,Manaus,Terapia,118,78,105,24.9,2024-01-26
+13,André Ferreira,47,M,Goiânia,Psiquiatria,142,88,155,28.7,2024-01-27
+14,Camila Santos,26,F,Vitória,Psicologia,112,72,92,22.1,2024-01-28
+15,Ricardo Lima,61,M,João Pessoa,Neurologia,148,85,185,29.5,2024-01-29
