@@ -1,4 +1,5 @@
 # 📘 Material de Estudo – Python Básico Completo
+## Autor: Jeremias de Oliveira Nunes - 2025
 
 ## 1. O que é Python?
 
